@@ -10,6 +10,7 @@
 		{"predicate": {"custom_model_data":3}, "model": "item/apple/black"},
 		{"predicate": {"custom_model_data":4}, "model": "item/apple/green"},
 		{"predicate": {"custom_model_data":5}, "model": "item/apple/purple"},
-		{"predicate": {"custom_model_data":6}, "model": "item/apple/orange"}
+		{"predicate": {"custom_model_data":6}, "model": "item/apple/orange"},
+		{"predicate": {"custom_model_data":7}, "model": "item/apple/christmas"}
 	]
 }
